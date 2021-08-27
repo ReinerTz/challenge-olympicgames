@@ -10,6 +10,7 @@ Foram adicionadas as dependências:
 - QueryDSL: Foi realizada apenas uma demonstração do uso, porém ficou comentado. Utilizado para fazer queries em banco de dados.
 - HSQLDB: Banco de dados
 - Spring JPA: Persistência de dados
+
 Dentre outras como: Dev tools, starter test e starter web.
 
 ## Testes
