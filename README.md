@@ -1,4 +1,4 @@
-# Desafio Jogos Olimpicos
+# Desafio Jogos Olímpicos
 
 ## Motivação 
 O objetivo do desenvolvimento deste projeto, é demonstrar um pouco do meu conhecimento com as tecnologias fornecidas pelo SpringBoot e ser bem avaliado com esse trabalho.
